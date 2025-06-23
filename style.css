@@ -1,0 +1,61 @@
+body{
+    margin: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 70px;
+    align-items: center;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    color: white;
+    padding: 10px;
+}
+
+.logo img{
+    height: 60px;
+    padding: 10px;
+}
+
+nav a{
+    font-weight: 600;
+    padding: 10px;
+}
+
+nav a:hover{
+    color: rgb(92, 92, 193);
+}
+
+.Titulo h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;      
+    height: 100px;        
+    text-align: center;       
+}
+
+.Text1_PaginaPrin{
+    align-items: center;
+    text-align: center;
+    text-align: justify;
+    display: flex;
+    padding: 15px;
+    width: 1300px;
+    height: 675px;
+    margin: 30px;
+}
+
